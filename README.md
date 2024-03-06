@@ -1,2 +1,2 @@
-# sha256
-JavaScript ES6 SHA256 in one function
+# SHA256
+SHA256 in JavaScript without any dependencies
